@@ -1,0 +1,68 @@
+C:\Users\vladi\source\repos\lab1\Debug\l1.exe.config
+C:\Users\vladi\source\repos\lab1\Debug\l1.exe
+C:\Users\vladi\source\repos\lab1\Debug\l1.pdb
+C:\Users\vladi\source\repos\lab1\l1\obj\Debug\l1.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\lab1\l1\obj\Debug\l1.Form1.resources
+C:\Users\vladi\source\repos\lab1\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\vladi\source\repos\lab1\l1\obj\Debug\l1.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\lab1\l1\obj\Debug\l1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\lab1\l1\obj\Debug\l1.exe
+C:\Users\vladi\source\repos\lab1\l1\obj\Debug\l1.pdb
+C:\Users\I\Desktop\Системное программирование\lab1\Debug\l1.exe.config
+C:\Users\I\Desktop\Системное программирование\lab1\Debug\l1.exe
+C:\Users\I\Desktop\Системное программирование\lab1\Debug\l1.pdb
+C:\Users\I\Desktop\Системное программирование\lab1\l1\obj\Debug\l1.Form1.resources
+C:\Users\I\Desktop\Системное программирование\lab1\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\I\Desktop\Системное программирование\lab1\l1\obj\Debug\l1.csproj.GenerateResource.cache
+C:\Users\I\Desktop\Системное программирование\lab1\l1\obj\Debug\l1.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\Системное программирование\lab1\l1\obj\Debug\l1.exe
+C:\Users\I\Desktop\Системное программирование\lab1\l1\obj\Debug\l1.pdb
+C:\Users\student\Desktop\lab1\Debug\l1.exe.config
+C:\Users\student\Desktop\lab1\Debug\l1.exe
+C:\Users\student\Desktop\lab1\Debug\l1.pdb
+C:\Users\student\Desktop\lab1\l1\obj\Debug\l1.Form1.resources
+C:\Users\student\Desktop\lab1\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\student\Desktop\lab1\l1\obj\Debug\l1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\lab1\l1\obj\Debug\l1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lab1\l1\obj\Debug\l1.exe
+C:\Users\student\Desktop\lab1\l1\obj\Debug\l1.pdb
+C:\Users\student\Desktop\lab1\l1\obj\Debug\l1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\lab1.1\Debug\l1.exe.config
+C:\Users\student\Desktop\lab1.1\Debug\l1.exe
+C:\Users\student\Desktop\lab1.1\Debug\l1.pdb
+C:\Users\student\Desktop\lab1.1\l1\obj\Debug\l1.Form1.resources
+C:\Users\student\Desktop\lab1.1\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\student\Desktop\lab1.1\l1\obj\Debug\l1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\lab1.1\l1\obj\Debug\l1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lab1.1\l1\obj\Debug\l1.exe
+C:\Users\student\Desktop\lab1.1\l1\obj\Debug\l1.pdb
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\Debug\l1.exe.config
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\Debug\l1.exe
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\Debug\l1.pdb
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\l1\obj\Debug\l1.Form1.resources
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\l1\obj\Debug\l1.csproj.GenerateResource.cache
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\l1\obj\Debug\l1.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\l1\obj\Debug\l1.exe
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\l1\obj\Debug\l1.pdb
+C:\Users\student\Desktop\lab1.1(1)\Debug\l1.exe.config
+C:\Users\student\Desktop\lab1.1(1)\Debug\l1.exe
+C:\Users\student\Desktop\lab1.1(1)\Debug\l1.pdb
+C:\Users\student\Desktop\lab1.1(1)\l1\obj\Debug\l1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\lab1.1(1)\l1\obj\Debug\l1.Form1.resources
+C:\Users\student\Desktop\lab1.1(1)\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\student\Desktop\lab1.1(1)\l1\obj\Debug\l1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\lab1.1(1)\l1\obj\Debug\l1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lab1.1(1)\l1\obj\Debug\l1.exe
+C:\Users\student\Desktop\lab1.1(1)\l1\obj\Debug\l1.pdb
+C:\Users\I\Desktop\Системное программирование\lab1.1(1)\l1\obj\Debug\l1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\Debug\l1.exe.config
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\Debug\l1.exe
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\Debug\l1.pdb
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\l1\obj\Debug\l1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\l1\obj\Debug\l1.Form1.resources
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\l1\obj\Debug\l1.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\l1\obj\Debug\l1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\l1\obj\Debug\l1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\l1\obj\Debug\l1.exe
+C:\Users\User\Desktop\Новая папка (5)\sysprog_labs-main\sysprog_lab1\l1\obj\Debug\l1.pdb
